@@ -1,7 +1,0 @@
----
-layout: pages/about
-title: "About"
-permalink: about/
----
-
-This is the about page
